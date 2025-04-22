@@ -20,7 +20,7 @@ This Streamlit app uses the [flax-community/t5-recipe-generation](https://huggin
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/SHIGINVP/smart-recipe-generator.git
+git clone https://github.com/SHIGINVP/Smart-Recipe-Generator.git
 cd smart-recipe-generator
 pip install -r requirements.txt
 ```
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - Create a read access token under your account settings.
 
 
-🚦 Run the App
+## 🚦 Run the App
 ```
 streamlit run app.py
 ```
